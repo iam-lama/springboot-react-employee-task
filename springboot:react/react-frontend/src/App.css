@@ -1,0 +1,18 @@
+.pink{
+    background-color: pink;
+    color: aqua;
+    margin: 10px;
+    padding: 10px;
+}
+.expenses{
+    padding: 1rem;
+    background-color: rgb(37, 35, 35);
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 95%;
+    
+}
+.main-container{
+    width: 100%;
+    display: flex;
+}
